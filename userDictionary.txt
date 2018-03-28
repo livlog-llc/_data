@@ -1,0 +1,17 @@
+monaca
+facebook
+foursquare
+yahoo
+google
+au
+captcha
+breadcrumbs
+jbreadcrumbs
+dropbox
+jpeg
+png
+gif
+exif
+dto
+int
+javadoc
